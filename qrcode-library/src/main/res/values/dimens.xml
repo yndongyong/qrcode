@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+
+
+    <dimen name="qrcode_crop_height">200dp</dimen>
+    <dimen name="qrcode_crop_width">200dp</dimen>
+
+
+    <dimen name="barcode_crop_height">140dp</dimen>
+    <dimen name="barcode_crop_width">260dp</dimen>
+
+    <color name="alpha_colorAccent">#666EB4E8</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="black_white">#3c3c3c</color>
+
+    <color name="gray">#7c7c7c</color>
+    <color name="gray_white">#ffdedede</color>
+
+    <color name="gray_line">#FFD9D9D9</color>
+    <color name="gray_bg">#FFEFEFEF</color>
+
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="alpha_60_black">#99000000</color>
+    <color name="alpha_80_black">#CC000000</color>
+
+</resources>
